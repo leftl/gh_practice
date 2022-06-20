@@ -23,3 +23,4 @@ Insert a new item for the menu below (make sure to follow the numbering as seen 
 1. Tacos al Pastor
 2. Fried Chicken
 3. Spaghetti (noodles with ketchup)
+4. Pizza
